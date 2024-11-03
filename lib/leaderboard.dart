@@ -26,7 +26,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
     'spin': [],
   };
 
-  static const String apiUrl = 'https://appledeveloper.com.tr/tablo/app2.php';
+  static const String apiUrl = '';
   static const String usernameKey = 'username';
 
   final List<Map<String, dynamic>> gameTypes = [
